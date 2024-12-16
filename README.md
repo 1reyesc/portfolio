@@ -15,9 +15,9 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 |-----------------------------------------------|----------------------------|
 | Designin a Secure Network Topology          | TODO|
 | Mr.Robot VM | TODO|
-|         | TODO|
 | TODO | TODO|
-| TODO                 | TODO |
+| TODO | TODO|
+| TODO | TODO|
 | TODO | TODO|
 
 ## Tools
