@@ -1,6 +1,6 @@
 # Hello, I'm Caleb Reyes
 
-<a href="www.linkedin.com/in/caleb-reyes-204758266" target="_blank">
+<a href="https://www.linkedin.com/in/caleb-reyes-204758266" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
