@@ -18,7 +18,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Designin a Secure Network Topology          | TODO|
-| Mr.Robot VM | TODO|
+| Mr.Robot VM Walkthrough | TODO|
 | Packetsniffing using Wireshark | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md) |
 | TODO | TODO|
 | TODO | TODO|
@@ -58,4 +58,4 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 ## Projects
 - Designing a Secure Network Topology
 - Mr.Robot VM Walk Through
-- 
+- Packetsniffing using Wirehshark
