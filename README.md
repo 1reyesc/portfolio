@@ -1,4 +1,4 @@
-d# Hello, I'm Caleb Reyes
+# Hello, I'm Caleb Reyes
 
 <a href="https://www.linkedin.com/in/caleb-reyes-204758266" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,12 +17,12 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Designin a Secure Network Topology          | [Link](www.boguslink.com)|
-| Mr.Robot VM Walkthrough | [Link](www.boguslink.com)|
-| Packetsniffing using Wireshark | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md) |
-| PenTesting a pfsense Firewall | [Link](www.boguslink.com)|
-| Monitor and Logging Network Traffic | [Link](www.boguslink.com)|
-| Password cracking with John the Ripper |[Link](www.boguslink.com)|
+| Secure Networking      | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md)|
+| Penetration Testing | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Mr.Robot%20VM%20Walkthrough)|
+| Packet Analysis | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md) |
+| Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall)|
+| Network Analysis | [Link](www.boguslink.com)|
+| Cryptanalysis |[Link](www.boguslink.com)|
 
 ## Tools
 
@@ -59,3 +59,6 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 - Designing a Secure Network Topology
 - Mr.Robot VM Walk Through
 - Packetsniffing using Wirehshark
+- Pentesting a pfsense Firewall
+- Montoring and Logging network traffic
+- Password cracking using John the Ripper
