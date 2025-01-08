@@ -34,7 +34,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
     <img src="https://img.shields.io/badge/-Nmap-004170?style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
 </div>
 
-### Endpoint
+### Endpoint Detection
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike-F03C2D?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-Secureworks_Taegis-005B96?&style=for-the-badge&logo=Secureworks&logoColor=white" />
