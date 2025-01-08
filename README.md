@@ -1,4 +1,4 @@
-# Hello, I'm Caleb Reyes
+d# Hello, I'm Caleb Reyes
 
 <a href="https://www.linkedin.com/in/caleb-reyes-204758266" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,9 +20,9 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 | Designin a Secure Network Topology          | [Link](www.boguslink.com)|
 | Mr.Robot VM Walkthrough | [Link](www.boguslink.com)|
 | Packetsniffing using Wireshark | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md) |
-| TODO | TODO|
-| TODO | TODO|
-| TODO | TODO|
+| PenTesting a pfsense Firewall | [Link](www.boguslink.com)|
+| Monitor and Logging Network Traffic | [Link](www.boguslink.com)|
+| Password cracking with John the Ripper |[Link](www.boguslink.com)|
 
 ## Tools
 
