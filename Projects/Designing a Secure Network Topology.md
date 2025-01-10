@@ -1,3 +1,5 @@
+# NOT FINISHED
+
 # Designing a Secure Network Topology
 In this lab I used a software called GNS3 and designed a very basic network consisting of 2 switches, 2 VLANs, a firewall residing on the outside of the entire network
 and a DMZ and on the opposite side of the firewall. The purpose of the lab was to practice a very rudimentary concept that every great NetSec engineer needs to know
