@@ -17,12 +17,14 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Secure Networking      | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md)|
+| Packet Analysis      | [[Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md)|
 | Penetration Testing | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Mr.Robot%20VM%20Walkthrough)|
-| Packet Analysis | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md) |
+| Secure Networking | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md) |
 | Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall)|
 | Network Analysis | [Link](www.boguslink.com)|
 | Cryptanalysis |[Link](www.boguslink.com)|
+
+
 
 ## Tools
 
