@@ -40,6 +40,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 <div>
     <img src="https://img.shields.io/badge/-CrowdStrike-F03C2D?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
     <img src="https://img.shields.io/badge/-Secureworks_Taegis-005B96?&style=for-the-badge&logo=Secureworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </div>
 
 ### Penetration Testing
@@ -51,6 +52,11 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 ## Ticketing 
 <div>
   <img src="https://img.shields.io/badge/-ServiceNow-0A69A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+</div>
+
+## Vulnerabilty Assessment 
+<div>
+  <img src="https://img.shields.io/badge/-OpenVAS-2faa31?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS" />
 </div>
 
 ## Certifications
