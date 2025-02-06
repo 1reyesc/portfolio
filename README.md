@@ -22,7 +22,6 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 | Secure Networking | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md) |
 | Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall)|
 | Vulnerability Assessment | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/OpenVAS%20Greenbone%20Vulnerability.md)|
-| Cryptanalysis |[Link](www.boguslink.com)|
 
 
 
