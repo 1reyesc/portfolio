@@ -21,7 +21,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 | Penetration Testing | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Mr.Robot%20VM%20Walkthrough)|
 | Secure Networking | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md) |
 | Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall)|
-| Network Analysis | [Link](www.boguslink.com)|
+| Vulnerability Assessment | [Link](www.boguslink.com)|
 | Cryptanalysis |[Link](www.boguslink.com)|
 
 
