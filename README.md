@@ -27,6 +27,11 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 
 ## Tools
 
+### SIEM
+<div>
+  <img src="https://img.shields.io/badge/-Wazuh%20SIEM-551A8B?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
