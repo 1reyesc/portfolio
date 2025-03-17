@@ -20,7 +20,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 | Packet Analysis      | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Wireshark.md)|
 | Penetration Testing | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Mr.Robot%20VM%20Walkthrough)|
 | Secure Networking | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Designing%20a%20Secure%20Network%20Topology.md) |
-| Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall)|
+| Network Security | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/Pentesting%20a%20pfsense%20Firewall.md)|
 | Vulnerability Assessment | [Link](https://github.com/1reyesc/1reyesc/blob/main/Projects/OpenVAS%20Greenbone%20Vulnerability.md)|
 
 
