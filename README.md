@@ -29,7 +29,7 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 
 ### SIEM
 <div>
-  <img <img src="https://img.shields.io/badge/-Wazuh%20SIEM-551A8B?style=for-the-badge&logo=<https://github.com/1reyesc/1reyesc/blob/main/Custom%20Logos/Wazuh-Logo-2022%20(1).png>&logoColor=white" />
+  <img src="https://github.com/1reyesc/1reyesc/blob/main/Custom%20Logos/Wazuh-Logo-2022%20(1).png" width="100" alt="Wazuh Logo"/>
 </div>
 
 
