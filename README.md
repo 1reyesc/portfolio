@@ -78,4 +78,4 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 - Packetsniffing using Wirehshark
 - Pentesting a pfsense Firewall
 - Montoring and Logging network traffic
-- Password cracking using John the Ripper
+- Designing and Testing a SIEM (In progress)
