@@ -16,9 +16,8 @@ In this lab, we are going to find 3 flags that are hidden inside a pre-built exp
   - Several directories appear, and we begin probing for useful information.
   - The **robots.txt** file contains a reference to `key-1-of-3.txt`.
 
-  ![Screenshot showing robots.txt file](path/to/your/image2.png)
-  
-<img src="https://github.com/user-attachments/assets/c8352257-f52f-4632-8d7f-2fe4d9883f7" width="300" height="200">
+
+  <img src="https://github.com/user-attachments/assets/c8352257-f52f-4632-8d7f-2fe4d9883f7" width="300" height="200">
 
   - Navigating to this file reveals **the first key**.
 
