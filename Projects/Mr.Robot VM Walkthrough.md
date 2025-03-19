@@ -10,7 +10,7 @@ In this lab, we are going to find 3 flags that are hidden inside a pre-built exp
     - **Ports 80 (HTTP) and 443 (HTTPS)** are open, which could be valuable for exploitation.
 - We open a browser and navigate to the Mr.Robot VM's IP address to see the displayed website.
 
-<img src="https://github.com/user-attachments/assets/1c2612f9-cec9-416c-b677-795e31413890" alt="NMAP of Website" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/1c2612f9-cec9-416c-b677-795e31413890" alt="NMAP of Website">
 
 - Using **Nmap**, we perform **website directory enumeration** to uncover additional resources.
   - Several directories appear, and we begin probing for useful information.
@@ -18,7 +18,7 @@ In this lab, we are going to find 3 flags that are hidden inside a pre-built exp
 
   ![Screenshot showing robots.txt file](path/to/your/image2.png)
   
-<img src="https://github.com/user-attachments/assets/c8352257-f52f-4632-8d7f-2fe4d9883f7)" alt="Completed NMAP" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/c8352257-f52f-4632-8d7f-2fe4d9883f7" width="300" height="200">
 
   - Navigating to this file reveals **the first key**.
 
