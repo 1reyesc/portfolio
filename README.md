@@ -11,7 +11,7 @@ I am a senior in College studying Computer Science with a focus on Cybersecurity
 
 ## Objective
 
-Intially starting out in computer science, I found my passion for cybersecurity. I'm now dedicated to transtion to this field and thrive. My goal is to land a position as a Cybersecurity Analyst or Junior Pentester.
+Intially starting out in computer science, I found my passion for cybersecurity. I'm now dedicated to transtion to this field and thrive. My goal is to grow and learn in the growing field of technology. My positons that I am currently looking for are SOC Analyst, Junior System Analyst, Junior Pentester. I am looking for anywhere that I can grow and learn.
 
 ## Skills
 
