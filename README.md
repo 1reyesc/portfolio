@@ -80,5 +80,5 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 - Montoring and Logging network traffic
 - Designing and Testing a SIEM (In progress)
 
-# Home Lab Setup 
+## Home Lab Setup 
 - [Link](https://github.com/1reyesc/portfolio/blob/main/Set%20Up/Home%20Lab%20Set%20Up.md)
