@@ -79,3 +79,6 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 - Pentesting a pfsense Firewall
 - Montoring and Logging network traffic
 - Designing and Testing a SIEM (In progress)
+
+# Home Lab Setup 
+- [Link](https://github.com/1reyesc/portfolio/blob/main/Home%20Lab%20Set%20Up.md)
