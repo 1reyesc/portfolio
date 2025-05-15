@@ -81,4 +81,4 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 - Designing and Testing a SIEM (In progress)
 
 # Home Lab Setup 
-- [Link](https://github.com/1reyesc/portfolio/blob/main/Home%20Lab%20Set%20Up.md)
+- [Link](github.com/1reyesc/portfolio/blob/main/Set Up/Home Lab Set Up.md)
