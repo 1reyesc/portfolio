@@ -7,7 +7,7 @@
 
 ## Brief Introduction
 
-I am a senior in College studying Computer Science with a focus on Cybersecurity and Secure-Software design. I love learning and growing my knowledge in the ever-evolving field of Cybersecurity.
+I am a Ball State Graduate with a Bachelors degree in Computer Science with a focus on Cybersecurity and Secure-Software design. I love learning and growing my knowledge in the ever-evolving field of Cybersecurity.
 
 ## Objective
 
