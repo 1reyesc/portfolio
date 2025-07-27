@@ -56,6 +56,8 @@ Intially starting out in computer science, I found my passion for cybersecurity.
 ## Ticketing 
 <div>
   <img src="https://img.shields.io/badge/-ServiceNow-0A69A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/-HEAT-0A69A1?style=for-the-badge&logo=servicenow&logoColor=white" alt="HEAT" />
+
 </div>
 
 ## Vulnerabilty Assessment 
